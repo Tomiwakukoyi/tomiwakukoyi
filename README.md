@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tomiwa Kukoyi</h1>
 <h3 align="center">A software developer specialized in frontend development from Nigeria</h3>
-<img align="right" alt="Coding" width="400" src="https://www.pexels.com/photo/grayscale-photo-of-a-person-wearing-guy-fawkes-mask-5380661/" />
+<img align="right" alt="Coding" width="400" src="https://www.pexels.com/photo/grayscale-photo-of-a-person-wearing-guy-fawkes-mask-5380661" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomiwakukoyi&label=Profile%20views&color=0e75b6&style=flat" alt="tomiwakukoyi" /> </p>
 
