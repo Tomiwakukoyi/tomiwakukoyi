@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomiwakukoyi&label=Profile%20views&color=0e75b6&style=flat" alt="tomiwakukoyi" /> </p>
 
-- 🔭 I’m currently working on [Ambify Dashboard](https://github.com/Tomiwakukoyi/ambify-dashboard.git)
+- 🔭 I’m currently working on [Ambify Dashboard](https://github.com/Tomiwakukoyi/jobbed.git)
 
 - 🌱 I’m currently learning **AWS, Next.js and Backend development**
 
