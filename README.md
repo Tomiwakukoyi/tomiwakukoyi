@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **AWS, Next.js and Backend development**
 
-- 👯 I’m looking to collaborate on [Jobbifyy](https://github.com/Tomiwakukoyi/jobbifyyweb.git)
+- 👯 I’m looking to collaborate on [Jobbed ( Working With React Native](https://github.com/Tomiwakukoyi/jobbed.git)
 
-- 🤝 I’m looking for help with [Jobbifyy](https://github.com/Tomiwakukoyi/jobbifyyweb.git)
+- 🤝 I’m looking for help with [InfoCrypto](https://github.com/Tomiwakukoyi/infocrypto.git)
 
 - 👨‍💻 All of my projects are available at [https://linkedin.com/in/tomiwakukoyi](https://linkedin.com/in/tomiwakukoyi)
 
