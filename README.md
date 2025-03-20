@@ -31,7 +31,7 @@ I'm a **software engineer** with a passion for building **scalable web applicati
 
 ### 📫 Connect with Me  
 🔗 **LinkedIn:** [linkedin.com/in/tomiwakukoyi](https://linkedin.com/in/tomiwakukoyi)  
-🐦 **Twitter:** [@thetommyk_](https://twitter.com/thetommyk_)  
+🐦 **Twitter:** [@tommyk_dev](https://twitter.com/tommyk_dev)  
 📧 **Email:** tomiwakukoyi07@gmail.com  
 
 ---
