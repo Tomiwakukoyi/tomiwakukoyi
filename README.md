@@ -15,7 +15,7 @@
 
 ### 🤖 About Me
 
-I'm a software engineer building at the intersection of **AI and real products**. My focus is **applied AI** - LLM-powered apps, automation, and intelligent backends - backed by solid **API and systems engineering**. I care about shipping AI that actually works in production, not just demos.
+I'm a software engineer building at the intersection of **AI and real products**. My focus is **applied AI** — LLM-powered apps, automation, and intelligent backends — backed by solid **API and systems engineering**. I care about shipping AI that actually works in production, not just demos.
 
 - 🧠 Building **AI-powered applications** and automation with LLMs
 - ⚙️ Designing the **backends and APIs** that serve them at scale
@@ -27,7 +27,7 @@ I'm a software engineer building at the intersection of **AI and real products**
 
 | | |
 |---|---|
-| 🤖 **AI & ML** | Building LLM apps, automation, and ML-driven features - from prompt pipelines to model integration |
+| 🤖 **AI & ML** | Building LLM apps, automation, and ML-driven features — from prompt pipelines to model integration |
 | ⚙️ **Backend & APIs** | Robust services and APIs with **Python, Node.js & PHP** |
 | ☁️ **Cloud & DevOps** | Deploying and scaling on **AWS & Firebase** |
 | 🎨 **Frontend** | Clean, responsive interfaces with **React, Next.js & Tailwind** when the product needs a face |
@@ -66,16 +66,7 @@ I'm a software engineer building at the intersection of **AI and real products**
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Tomiwakukoyi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomiwakukoyi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tomiwakukoyi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tomiwakukoyi&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="Trophies" />
+  <img src="./github-metrics.svg" alt="Tomiwa's GitHub metrics" />
 </p>
 
 ---
