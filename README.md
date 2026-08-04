@@ -15,7 +15,7 @@
 
 ### 🤖 About Me
 
-I'm a software engineer building at the intersection of **AI and real products**. My focus is **applied AI** — LLM-powered apps, automation, and intelligent backends — backed by solid **API and systems engineering**. I care about shipping AI that actually works in production, not just demos.
+I'm a software engineer building at the intersection of **AI and real products**. My focus is **applied AI** - LLM-powered apps, automation, and intelligent backends - backed by solid **API and systems engineering**. I care about shipping AI that actually works in production, not just demos.
 
 - 🧠 Building **AI-powered applications** and automation with LLMs
 - ⚙️ Designing the **backends and APIs** that serve them at scale
@@ -27,7 +27,7 @@ I'm a software engineer building at the intersection of **AI and real products**
 
 | | |
 |---|---|
-| 🤖 **AI & ML** | Building LLM apps, automation, and ML-driven features — from prompt pipelines to model integration |
+| 🤖 **AI & ML** | Building LLM apps, automation, and ML-driven features - from prompt pipelines to model integration |
 | ⚙️ **Backend & APIs** | Robust services and APIs with **Python, Node.js & PHP** |
 | ☁️ **Cloud & DevOps** | Deploying and scaling on **AWS & Firebase** |
 | 🎨 **Frontend** | Clean, responsive interfaces with **React, Next.js & Tailwind** when the product needs a face |
